@@ -51,3 +51,4 @@ Color Palette: Shades of black, green (#1DB954), white accents
 ✅ Outcome:
 A fully functional clickable prototype simulating the core user flows of a music app like Spotify. The design reflects industry-level standards, emphasizing accessibility, user retention, and visual hierarchy. The project strengthened my understanding of user interface consistency, design systems, and mobile-first design.
 
+![image](https://github.com/user-attachments/assets/85805148-4387-46e1-843e-acef93b8941e)
